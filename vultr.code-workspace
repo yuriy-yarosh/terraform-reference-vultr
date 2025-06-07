@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"name": "☁️ Vultr",
+			"path": "."
+		},
+	],
+	"settings": {
+		"terminal.integrated.cwd": ".",
+		"editor.formatOnSave": true,
+		"editor.formatOnPaste": true,
+		"cSpell.language": "en",
+		"cSpell.words": [
+			"awscli",
+			"conventionalcommits",
+			"dependi",
+			"EDITMSG",
+			"opentofu",
+			"pkief",
+			"RCNA",
+			"shellcheck",
+			"terragrunt",
+			"tflint",
+			"tfstate",
+			"tfvars",
+			"timonwong",
+			"Yarosh",
+			"Yuriy"
+		],
+		"workbench.iconTheme": "material-icon-theme"
+	},
+	"extensions": {
+		"recommendations": [
+ 		    "hashicorp.terraform",
+			"editorconfig.editorconfig",
+			"fill-labs.dependi",
+			"streetsidesoftware.code-spell-checker",
+			"pkief.material-icon-theme",
+			"mads-hartmann.bash-ide-vscode",
+			"timonwong.shellcheck"
+		]
+	}
+}

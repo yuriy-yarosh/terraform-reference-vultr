@@ -1,0 +1,6 @@
+python 3.13.4
+rust 1.88.0
+
+terraform 1.11.3
+opentofu 1.9.0
+awscli 2.27.28
